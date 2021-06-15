@@ -1,0 +1,4 @@
+websockets
+dash
+redis
+pandas

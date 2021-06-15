@@ -1,0 +1,1 @@
+pairs = ['ETHUSDT', 'BTCUSDT', 'ETHBTC', 'LTCETH']
